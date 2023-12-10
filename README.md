@@ -6,7 +6,7 @@ Projects:<br>
 
 I pledge not to share my code to maintain fairness, as per UCSD Academic Integrity Policies. While I cannot make my code publicly available, I am willing to provide it upon request from recruiters. <br>
 
-CSE 100 project: Graphs and Graph Algorithms. <br>
+## CSE 100 project: Graphs and Graph Algorithms. <br>
 
 
 Overview
@@ -49,7 +49,7 @@ This file will help you compile your code using the make command. If you choose 
 
 
 <br>
-- CSE 100 project: Huffman Coding Tree. <br>
+## CSE 100 project: Huffman Coding Tree. <br>
 
 Design Notes
 Before you write even a single line of code, it's important to properly design the various components of your compress and decompress programs. Here, we will discuss some aspects of the design that you should be sure to think about.
