@@ -49,6 +49,7 @@ This file will help you compile your code using the make command. If you choose 
 
 
 <br>
+
 ## CSE 100 project: Huffman Coding Tree. <br>
 
 Design Notes
